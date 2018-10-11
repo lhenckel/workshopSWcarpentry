@@ -22,3 +22,4 @@ done
 
 # cat $RESULT_DIR/length.txt
   
+# that is the end of the file
