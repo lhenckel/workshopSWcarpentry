@@ -20,5 +20,5 @@ for filename in $INPUT_DIR/*.pdb
     wc -l $filename | sort -n | head -n 1 >> $RESULT_DIR/length.txt
 done
 
-cat $RESULT_DIR/length.txt
+# cat $RESULT_DIR/length.txt
   
