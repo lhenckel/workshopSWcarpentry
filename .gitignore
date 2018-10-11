@@ -1,0 +1,8 @@
+data/
+results/
+*.pdf
+.bash_profile
+creatures/
+molecules/
+north-pacific-gyre/
+writing/
