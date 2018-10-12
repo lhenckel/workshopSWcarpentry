@@ -14,3 +14,5 @@ The code is given as is. No support and no pull request will be accepted.
 I do not accept any contributions.
 
 # How to cite
+
+[![DOI](https://zenodo.org/badge/152712669.svg)](https://zenodo.org/badge/latestdoi/152712669)
